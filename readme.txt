@@ -7,3 +7,6 @@ Feature 1 added!
 =======
 love from git
 >>>>>>> 1b74b0ecd12fc47a84ea614203cfaf35edd02a82
+Feature 1 added!
+Feature 1 added!
+Feature 1 added!
